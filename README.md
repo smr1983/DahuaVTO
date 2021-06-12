@@ -3,6 +3,7 @@
 [![Validate](https://github.com/myhomeiot/DahuaVTO/actions/workflows/validate.yaml/badge.svg)](https://github.com/myhomeiot/DahuaVTO/actions/workflows/validate.yaml)
 
 A Home Assistant custom integration for control Dahua VTO/VTH devices.
+
 Please ⭐️ this repo if you find it useful.
 
 **If you have questions or problems with this integration you can check [this](https://community.home-assistant.io/t/dahua-vto-custom-integration) thread.**
